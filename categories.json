@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Kính viễn vọng",
+    "description": "Các loại kính viễn vọng để quan sát các thiên thể trong vũ trụ.",
+    "image": "assets/603-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ống nhòm",
+    "description": "Ống nhòm dùng để quan sát các hiện tượng thiên văn và động vật.",
+    "image": "assets/4440_1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Máy ảnh thiên văn",
+    "description": "Các loại máy ảnh chuyên dụng cho việc chụp ảnh thiên văn.",
+    "image": "assets/14991_0.jpg"
+  }
+]

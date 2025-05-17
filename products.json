@@ -1,0 +1,219 @@
+[
+    {
+      "id": 1,
+      "name": "Kính viễn vọng 70mm",
+      "categoryId": 1,
+      "description": "Kính viễn vọng 70mm phù hợp cho người mới bắt đầu khám phá thiên văn.",
+      "price": 120,
+      "stockQuantity": 50,
+      "image": "assets/603-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kính viễn vọng 120mm",
+      "categoryId": 1,
+      "description": "Kính viễn vọng 120mm chất lượng cao, cho phép quan sát chi tiết các thiên thể.",
+      "price": 250,
+      "stockQuantity": 30,
+      "image": "assets/4440_1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kính viễn vọng 150mm",
+      "categoryId": 1,
+      "description": "Kính viễn vọng 150mm với khả năng phóng đại mạnh mẽ, lý tưởng cho việc quan sát các hành tinh.",
+      "price": 350,
+      "stockQuantity": 20,
+      "image": "assets/14991_0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kính viễn vọng 200mm",
+      "categoryId": 1,
+      "description": "Kính viễn vọng 200mm, chuyên nghiệp, với khả năng quan sát rõ ràng các ngôi sao và hành tinh.",
+      "price": 500,
+      "stockQuantity": 15,
+      "image": "assets/15330_0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kính viễn vọng thiên văn Celestron",
+      "categoryId": 1,
+      "description": "Kính viễn vọng Celestron 80mm chất lượng cao dành cho những người yêu thích thiên văn học.",
+      "price": 180,
+      "stockQuantity": 25,
+      "image": "assets/53080_1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kính viễn vọng Sky-Watcher",
+      "categoryId": 1,
+      "description": "Kính viễn vọng Sky-Watcher 90mm với công nghệ quang học tiên tiến giúp quan sát các thiên thể rõ ràng.",
+      "price": 220,
+      "stockQuantity": 18,
+      "image": "assets/71904_5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kính viễn vọng huyền thoại",
+      "categoryId": 1,
+      "description": "Kính viễn vọng huyền thoại 100mm với công suất cực mạnh, giúp khám phá không gian vũ trụ.",
+      "price": 650,
+      "stockQuantity": 10,
+      "image": "assets/78688_2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kính viễn vọng thiên văn 250mm",
+      "categoryId": 1,
+      "description": "Kính viễn vọng 250mm với độ chi tiết cực cao, chuyên nghiệp cho người đam mê thiên văn học.",
+      "price": 800,
+      "stockQuantity": 8,
+      "image": "assets/80879_1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ống nhòm 8x42",
+      "categoryId": 2,
+      "description": "Ống nhòm 8x42, thích hợp cho việc quan sát các vật thể trên bầu trời và thiên văn học.",
+      "price": 50,
+      "stockQuantity": 100,
+      "image": "assets/82785_1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ống nhòm 10x50",
+      "categoryId": 2,
+      "description": "Ống nhòm 10x50 cho phép quan sát các chi tiết rõ ràng hơn trong thiên văn học.",
+      "price": 75,
+      "stockQuantity": 80,
+      "image": "assets/85130_3.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ống nhòm 12x60",
+      "categoryId": 2,
+      "description": "Ống nhòm 12x60 với công suất mạnh mẽ, lý tưởng cho việc quan sát các thiên thể.",
+      "price": 100,
+      "stockQuantity": 60,
+      "image": "assets/Omegon-Telescope-AC-70-700-AZ-2 (1).jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ống nhòm thiên văn Celestron",
+      "categoryId": 2,
+      "description": "Ống nhòm Celestron 10x50 giúp bạn quan sát rõ ràng các ngôi sao và hành tinh.",
+      "price": 120,
+      "stockQuantity": 40,
+      "image": "assets/Omegon-Telescope-N-114-900-EQ-1.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ống nhòm Swarovski",
+      "categoryId": 2,
+      "description": "Ống nhòm Swarovski 8x42 với độ sáng cao và khả năng nhìn rõ chi tiết trong thiên văn học.",
+      "price": 200,
+      "stockQuantity": 30,
+      "image": "assets/Omegon-Telescope-N-150-750-EQ-3.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Ống nhòm Zoom",
+      "categoryId": 2,
+      "description": "Ống nhòm Zoom 10-30x với khả năng điều chỉnh độ phóng đại cho việc quan sát thiên văn.",
+      "price": 150,
+      "stockQuantity": 35,
+      "image": "assets/Celestron-Maksutov-telescope-MC-127-1500-NexStar-127-SLT-GoTo.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ống nhòm ngắm sao",
+      "categoryId": 2,
+      "description": "Ống nhòm ngắm sao với độ phân giải cao giúp quan sát các chòm sao và ngôi sao xa.",
+      "price": 180,
+      "stockQuantity": 25,
+      "image": "assets/Celestron-Schmidt-Cassegrain-telescope-SC-203-2032-NexStar-8-SE-GoTo.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ống nhòm đêm",
+      "categoryId": 2,
+      "description": "Ống nhòm đêm với khả năng nhìn rõ trong điều kiện ánh sáng yếu, rất thích hợp cho việc quan sát bầu trời đêm.",
+      "price": 90,
+      "stockQuantity": 45,
+      "image": "assets/Celestron-Schmidt-Cassegrain-telescope-SC-235-2350-NexStar-Evolution-925.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Máy ảnh thiên văn Nikon",
+      "categoryId": 3,
+      "description": "Máy ảnh thiên văn Nikon D850 với độ phân giải cao, chuyên dụng cho chụp ảnh các hành tinh và thiên hà.",
+      "price": 1200,
+      "stockQuantity": 10,
+      "image": "assets/Celestron-Smart-Telescope-S-152-335-Origin-Intelligent-Home-Observatory.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Máy ảnh Canon EOS",
+      "categoryId": 3,
+      "description": "Máy ảnh Canon EOS 80D với các tính năng đặc biệt giúp chụp ảnh thiên văn sắc nét.",
+      "price": 1000,
+      "stockQuantity": 12,
+      "image": "assets/Celestron-Telescope-AC-102-660-StarSense-Explorer-DX-102-AZ.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Máy ảnh Sony Alpha",
+      "categoryId": 3,
+      "description": "Máy ảnh Sony Alpha 7R với độ phân giải cực cao cho các bức ảnh thiên văn tuyệt vời.",
+      "price": 1500,
+      "stockQuantity": 8,
+      "image": "assets/National-Geographic-Telescope-AC-70-400-AR-App.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Máy ảnh Pentax",
+      "categoryId": 3,
+      "description": "Máy ảnh Pentax K-1 II chuyên dụng cho chụp ảnh thiên văn và phong cảnh đêm.",
+      "price": 1300,
+      "stockQuantity": 6,
+      "image": "assets/Skywatcher-Dobson-telescope-N-76-300-Heritage-DOB.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Máy ảnh thiên văn Nikon D7500",
+      "categoryId": 3,
+      "description": "Máy ảnh Nikon D7500 chuyên dụng cho chụp ảnh thiên văn học, phù hợp với những người yêu thích vũ trụ.",
+      "price": 900,
+      "stockQuantity": 15,
+      "image": "assets/Skywatcher-Dobson-telescope-N-150-750-Heritage-FlexTube-Virtuoso-GTi.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Máy ảnh Canon EOS 5D Mark IV",
+      "categoryId": 3,
+      "description": "Máy ảnh Canon EOS 5D Mark IV mang lại chất lượng ảnh tuyệt vời cho các bức ảnh thiên văn học.",
+      "price": 1800,
+      "stockQuantity": 5,
+      "image": "assets/Skywatcher-Telescope-N-150-750-Explorer-150P-EQ3-2 (1).jpg"
+    },
+    {
+      "id": 23,
+      "name": "Máy ảnh Sony A7S III",
+      "categoryId": 3,
+      "description": "Máy ảnh Sony A7S III cung cấp khả năng quay video và chụp ảnh chất lượng cao trong mọi điều kiện ánh sáng.",
+      "price": 3000,
+      "stockQuantity": 4,
+      "image": "assets/Skywatcher-Maksutov-telescope-MC-127-1500-SkyMax-127-AZ-GTi-GoTo-WiFi.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Máy ảnh thiên văn 4K",
+      "categoryId": 3,
+      "description": "Máy ảnh thiên văn 4K giúp chụp ảnh và quay video thiên văn với độ phân giải cực cao.",
+      "price": 2000,
+      "stockQuantity": 7,
+      "image": "assets/Vaonis-Smart-Telescope-Vespera-PRO-AP-50-250.jpg"
+    }
+  ]
+  
